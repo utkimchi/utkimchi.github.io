@@ -28,7 +28,7 @@ url: "coltonavila.com" # the base hostname & protocol for your site, e.g. http:/
 github_username:  utkimchi
 
 # Build settings
-theme: jminima
+theme: minima
 plugins:
   - jekyll-feed
 
