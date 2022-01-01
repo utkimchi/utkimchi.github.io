@@ -1,3 +1,3 @@
 layout: page
-title: "home"
-permalink: "utkimchi.github.io/home"
+title: "blogs"
+permalink: "utkimchi.github.io/blogs"
