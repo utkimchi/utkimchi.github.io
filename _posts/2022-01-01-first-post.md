@@ -18,4 +18,4 @@ Just wanted to test out LateX. Someone e-mail me and let me know how to get that
 
 Anyone else think that plenary reminds them of some sort of planetary gathering? Below is a paper for my ML course. See if you can access it.
 
-You can [download pdf](https://utkimchi.github.io/assets/Gin_Rummy_AI_report.pdf) here.
+You can [download the pdf](https://utkimchi.github.io/assets/Gin_Rummy_AI_report.pdf) here. The methodology of the report was suprising as it ended up not having a completely random agent to compare results of the different Gin Rummy tactics.
