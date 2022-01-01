@@ -21,9 +21,10 @@
 title: Colton Avila
 email: coltonavila@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A running blog on my work, research, thoughts, and really anything that interests me! I aim to have weekly updates and paper's and work progress.
+  A running blog on my work and research, thoughts and summaries of readings,
+  and general 'musings' if I ever feel inclined to share them here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "coltonavila.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  utkimchi
 

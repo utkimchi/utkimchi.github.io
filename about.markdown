@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-# Howdy! 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-My name is Colton Avila and I'm currently a Graduate Research Assistant at Oregon State University pursuing my M.S. in Biological and Ecological Engineering. 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Feel free to take a look [at my resume](https://utkimchi.github.io/assets/Colton_Avila_Resume_2021.pdf) and shoot me an e-mail if you have any questions!
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
 
+[jekyll-organization]: https://github.com/jekyll
