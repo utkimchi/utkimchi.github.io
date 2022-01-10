@@ -6,4 +6,4 @@ categories: jekyll update
 use_math: true
 ---
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4?si=b0ed1cb5c2634931)
+<iframe src="https://open.spotify.com/embed/track/4IIxBK0L8uj7viwxhmuSc4?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
